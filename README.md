@@ -1,6 +1,8 @@
 # ⚡ PULSE. | Minimalist Link Engine
 
 PULSE is a high-end, silver-neon styled link aggregator built with **Next.js 15**, **Tailwind CSS v4**, and **Firebase**. It features a secure admin dashboard to manage links in real-time and a public profile page for world-wide access.
+![CI Status](https://github.com/junesdream/pulse_link/actions/workflows/main.yml/badge.svg)
+![Next.js](https://img.shields.io/badge/Framework-Next.js_15-black)
 
 ## 🚀 Features
 - **Secure Authentication**: Google Login integration via Firebase Auth.
@@ -34,6 +36,6 @@ NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=your_auth_domain
 npm run dev
 
 ## 📄 License
-MIT License - Created by [Aria Aora/rainbowdev]
+MIT License - Created by [RainbowDev]
 
 
